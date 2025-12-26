@@ -1,5 +1,3 @@
-# automation-scripts
-Linux automation: system updates, log management, SSL certificates
 # Automation Scripts
 
 Additional automation scripts for Linux system administration.
